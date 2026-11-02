@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+atlain.db
+.env
+.venv/
+venv/
